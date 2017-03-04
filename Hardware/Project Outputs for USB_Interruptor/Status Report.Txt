@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [USB_Interruptor.PcbDoc]
+   Generated File[USB_Interruptor.TXT]
+   Generated File[USB_Interruptor.LDP]
+   Generated File[USB_Interruptor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:42:34 AM On 5/03/2017

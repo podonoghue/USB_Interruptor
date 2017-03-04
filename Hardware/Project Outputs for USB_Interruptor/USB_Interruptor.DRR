@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: USB_Interruptor.PcbDoc   5/03/2017  9:42:34 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB_Interruptor.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        19.7mil (0.50038mm)      Round          13               1.06 Inch (26.92 mm)
+T2        36.2mil (0.91948mm)      Round          4                0.28 Inch (7.00 mm)
+T3        43.3mil (1.09982mm)      Round          2                0.18 Inch (4.50 mm)
+T4        82.7mil (2.10058mm)      Round          2                0.45 Inch (11.40 mm)
+T5        90.6mil (2.30124mm)      Round          2                0.51 Inch (13.01 mm)
+---------------------------------------------------------------------------
+Totals                                            23               2.47 Inch (62.83 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
