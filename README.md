@@ -6,7 +6,7 @@ It is intended for testing USB devices without having to physically unplug.
 This is an Altium designer project.  
 
 Refer to the PDFs in the Project Outputs directory for layout and BOM
-<a href="https://github.com/podonoghue/USB_Interruptor/blob/master/Hardware/Project Outputs for USB_Interruptor/USB_Interruptor.PDF">PDF Documentation</img></a>
+<a href="https://raw.githubusercontent.com/podonoghue/USB_Interruptor/master/Hardware/Project%20Outputs%20for%20USB_Interruptor/USB_Interruptor.PDF">PDF Documentation</img></a>
 
 ![Top image](https://raw.githubusercontent.com/podonoghue/USB_Interruptor/master/Hardware/Top.png "Top Board Image")
 
